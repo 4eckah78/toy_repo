@@ -4,3 +4,7 @@ for _ in range(5):
 
 for _ in range(5):
     print("World")
+
+
+for _ in range(5):
+    print("!")
